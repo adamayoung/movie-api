@@ -15,7 +15,7 @@ let package = Package(
     dependencies: [
         .package(url: "https://github.com/vapor/vapor.git", from: "4.89.0"),
         .package(url: "https://github.com/vapor/leaf.git", from: "4.0.0"),
-        .package(url: "https://github.com/adamayoung/TMDb.git", from: "11.0.0")
+        .package(url: "https://github.com/adamayoung/TMDb.git", from: "12.0.0")
     ],
 
     targets: [
